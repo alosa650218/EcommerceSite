@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-02-24 01:00+0300\n"
+"PO-Revision-Date: 2017-02-24 01:00+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;gettext;gettext_noop;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+"X-Poedit-SearchPathExcluded-2: *.txt\n"
+"X-Poedit-SearchPathExcluded-3: *.html\n"
+
+#: admin/class-ipanorama-admin.php:103
+msgid "Builder"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:110
+msgid "Using this iPanorama"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:117
+msgid "Useful Links"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:134 admin/class-ipanorama-admin.php:321
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:144
+msgid "iPanorama Items"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:145
+msgid "iPanorama Item"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:146
+msgid "Add New"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:147
+msgid "Add New Item"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:148
+msgid "Edit Item"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:149
+msgid "New Item"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:150
+msgid "View Item"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:151
+msgid "Search iPanorama Item"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:152
+msgid "No iPanorama Item found"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:153
+msgid "No iPanorama Item found in Trash"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:155
+msgid "All Items"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:156
+msgid "iPanorama 360"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:182
+msgid "Title"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:183
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:184
+msgid "Total Scenes"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:185
+msgid "Author"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:186
+msgid "Date"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:208
+msgid "scene(s)"
+msgstr ""
+
+#: admin/class-ipanorama-admin.php:293 admin/class-ipanorama-admin.php:294
+msgid "iPanorama item updated."
+msgstr ""
+
+#: public/class-ipanorama-public.php:114
+msgid "Invalid iPanorama shortcode attributes"
+msgstr ""
+
+#: public/class-ipanorama-public.php:122
+msgid "Invalid iPanorama slug attribute"
+msgstr ""

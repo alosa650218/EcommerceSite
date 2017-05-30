@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<productid><![CDATA[1]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[ASUS Tower]]></productname>
+		<productdescription><![CDATA[Advanced design with Mayan-inspired detailing. ASUS G11 evokes an air of mystery, thanks to its futuristic outer space-inspired design. With its menacing red and black color scheme, and Mayan-inspired markings, it radiates the power and performance that lies within.]]></productdescription>
+		<productcost><![CDATA[600]]></productcost>
+		<productprice><![CDATA[829.99]]></productprice>
+		<productqty><![CDATA[5]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[2]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[CyberpowerPC Tower]]></productname>
+		<productdescription><![CDATA[iBuyPower Desktop: Work or play on this iBUYPOWER desktop computer. It uses a 2.7GHz Intel Quad-Core i5 processor and 16GB of RAM to ensure fast processing and efficient multitasking, and its 120GB SATA III hard drive provides all the storage you need. This iBUYPOWER desktop computer has a built-in AMD Radeon RX graphics card to satisfy hard-core gamers.]]></productdescription>
+		<productcost><![CDATA[600]]></productcost>
+		<productprice><![CDATA[799.99]]></productprice>
+		<productqty><![CDATA[4]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[3]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[Alienware Tower]]></productname>
+		<productdescription><![CDATA[Designed for VR, the Aurora was engineered to exceed today's virtual reality requirements. And with convenient tool-less access, it also offers easy upgradeability for the next wave of VR. With a VR-ready Alienware PC, you can be the first to experience the future of gaming. Alienware provides a range of systems to bring you the most immersive VR experience imaginable. Additionally, the Aurora offers Oculus or HTC Vive virtual reality configurations, for powerful, immersive VR experiences.The Alienware Aurora features a meticulous, zero-fat design and is the first of its kind to offer tool-less upgrades to graphics cards, hard drives and memory.A uniquely designed PSU swing-arm keeps graphics and expansion cards safely secured and easy to upgrade - along with memory modules and up to 5 storage drives - thanks to tool-less accessibility.]]></productdescription>
+		<productcost><![CDATA[1199.99]]></productcost>
+		<productprice><![CDATA[1399.99]]></productprice>
+		<productqty><![CDATA[3]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[4]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[Acer 27"]]></productname>
+		<productdescription><![CDATA[Binge-watch your favorite television shows or indulge in a bit of gaming with this Acer HD monitor. Full HD displays your content with crisp, lifelike delivery, letting you jump right into all of the action. This Acer HD monitor has a 5ms response time, eliminating ghosting and stuttering during games and streaming video.]]></productdescription>
+		<productcost><![CDATA[99.99]]></productcost>
+		<productprice><![CDATA[149.99]]></productprice>
+		<productqty><![CDATA[10]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[5]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[Dell 23.8"]]></productname>
+		<productdescription><![CDATA[Featuring 1920 x 1080 maximum resolution, this Dell S2415H 3R3XN LED monitor presents stunningly realistic images in clear detail on its 23.8" display. The virtually borderless, ultranarrow bezel delivers an enveloping widescreen viewing experience.]]></productdescription>
+		<productcost><![CDATA[110]]></productcost>
+		<productprice><![CDATA[149.99]]></productprice>
+		<productqty><![CDATA[7]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[6]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[Dell 27"]]></productname>
+		<productdescription><![CDATA[Enjoy games and movies on the 27" display of this Dell S2715H monitor, which showcases media in 1920 x 1080 resolution and delivers vivid hues thanks to an 8,000,000:1 mega dynamic contrast ratio. The HDMI (MHL) input lets you connect a mobile device.]]></productdescription>
+		<productcost><![CDATA[200]]></productcost>
+		<productprice><![CDATA[299.99]]></productprice>
+		<productqty><![CDATA[9]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[7]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[Logitech - Wireless Keyboard and Mouse]]></productname>
+		<productdescription><![CDATA[Navigate your computer from up to 32.8' away with this Logitech MK270 920-004536 wireless keyboard and mouse, which link to your computer using a nano receiver. Multimedia keyboard buttons and a scroll wheel on the mouse enable easy navigation.]]></productdescription>
+		<productcost><![CDATA[10]]></productcost>
+		<productprice><![CDATA[21.99]]></productprice>
+		<productqty><![CDATA[20]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[8]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[AZIO - Wireless Keyboard and Mouse - Pink]]></productname>
+		<productdescription><![CDATA[Connect a keyboard to your computer without any wires with this AZIO Hue 2 wireless keyboard and mouse, featuring easy Bluetooth compatibility. The ambidextrous mouse works for either right- or left-handed typists. The full QWERTY keyboard also features a 10-key pad, and this AZIO Hue 2 wireless keyboard and mouse is a pretty pink color to spice up your space.]]></productdescription>
+		<productcost><![CDATA[20]]></productcost>
+		<productprice><![CDATA[34.99]]></productprice>
+		<productqty><![CDATA[25]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[9]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[AZIO - Wireless Keyboard and Mouse - Blue]]></productname>
+		<productdescription><![CDATA[Add a bit of blue to your computing with this AZIO Hue 2 wireless keyboard and mouse, which connects with Bluetooth to your setup. Featuring a 10-key pad for full keyboarding function, this wireless set is compatible with most computers. The ambidextrous mouse with this AZIO Hue 2 wireless keyboard and mouse offers effortless function for right and left hands.]]></productdescription>
+		<productcost><![CDATA[20]]></productcost>
+		<productprice><![CDATA[34.99]]></productprice>
+		<productqty><![CDATA[12]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[10]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[EVGA - NVIDIA GeForce GTX 1050]]></productname>
+		<productdescription><![CDATA[The EVGA GeForce GTX 1050 Ti hit the perfect spot for that upgrade you know you need, but at the price you want! With the latest NVIDIA Pascal architecture, the 4GB GTX 1050 Ti displays stunning visuals and great performance at 1080p HD.]]></productdescription>
+		<productcost><![CDATA[100]]></productcost>
+		<productprice><![CDATA[154.99]]></productprice>
+		<productqty><![CDATA[4]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[11]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[XFX - AMD Radeon R5 220 Graphics Card]]></productname>
+		<productdescription><![CDATA[Equip your gaming computer with this AMD Radeon GPU. Its PowerTune technology dynamically adjusts the clock speed to provide the optimal performance. With its dual display feature, it enhances your productivity and gaming experience. By utilizing HD 3-D technology, this AMD Radeon GPU with 2GB memory lets you enjoy seamless stereoscopic 3-D gaming.]]></productdescription>
+		<productcost><![CDATA[20]]></productcost>
+		<productprice><![CDATA[44.99]]></productprice>
+		<productqty><![CDATA[3]]></productqty>
+	</node>
+	<node>
+		<productid><![CDATA[12]]></productid>
+		<producttype><![CDATA[Hardware]]></producttype>
+		<productname><![CDATA[EVGA - NVIDIA GeForce GTX 1060]]></productname>
+		<productdescription><![CDATA[Improve your graphics experience with this EVGA GeForce GTX 1060 gaming video card. The card’s 6GB onboard memory handles high-definition graphics, alleviating pressure on your computer’s RAM. Two integrated fans keep the EVGA GeForce GTX 1060 gaming video card cool while you traverse the virtual world or complete graphics-intensive projects.]]></productdescription>
+		<productcost><![CDATA[180]]></productcost>
+		<productprice><![CDATA[299.99]]></productprice>
+		<productqty><![CDATA[10]]></productqty>
+	</node>
+</data>
